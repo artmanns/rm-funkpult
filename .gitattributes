@@ -1,0 +1,8 @@
+# Grosse CAD-Dateien nicht zeilenweise vergleichen
+*.step   -diff linguist-generated
+*.dxf    -diff linguist-generated
+*.net    linguist-generated
+*.stl    binary
+*.png    binary
+*.pdf    binary
+*.mp4    binary

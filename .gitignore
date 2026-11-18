@@ -1,0 +1,27 @@
+# Generator-Ausgabe
+ausgabe/
+intent.json
+report.json
+platine_mechanik.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# KiCad
+*.kicad_prl
+*-backups/
+*.lck
+fp-info-cache
+_autosave-*
+\#auto_saved_files#
+
+# Editor und System
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
